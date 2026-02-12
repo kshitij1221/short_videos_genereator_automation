@@ -1,0 +1,5 @@
+ffmpeg-python==0.2.0
+yt-dlp>=2023.0.0
+
+# For subtitle generation (FREE!)
+openai-whisper>=20230314
